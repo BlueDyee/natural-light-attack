@@ -1,2 +1,2 @@
 # natural-light-attack
-🎉Accepted by WACV 2024🎉
+Accepted by WACV 2024
